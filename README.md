@@ -1,6 +1,6 @@
 # MultiPropReg
 
-This is the official code for the paper "Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond"
+This is the official code for "Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond"
 ![Alt text](pipeline.png)
 
 # Reference
