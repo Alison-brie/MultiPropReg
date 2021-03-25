@@ -1,2 +1,1 @@
-
-test/T2/subject-6-T2.nii.gz,test/label/subject-6-label.nii.gz
+../data/brain_scan1_vol.nii.gz,../data/brain_scan1_seg.nii.gz
