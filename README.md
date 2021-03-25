@@ -15,7 +15,7 @@ This is the official code for "Learning Deformable Image Registration from Optim
 
 > The easiest way to get started is to evaluate our trained models, run
 
-<p> <code>python test.py</code> </p>
+> <p> <code>python test.py</code> </p>
 
 
 # Reference
