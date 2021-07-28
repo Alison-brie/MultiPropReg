@@ -1,6 +1,6 @@
 # MultiPropReg
 
-The code is still being sorted,,,,,
+The code is still being sorted......
 
 This is the official code for "Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond"
 ![Alt text](pipeline.png)
