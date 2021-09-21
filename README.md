@@ -24,9 +24,8 @@ This is the official code for "Learning Deformable Image Registration from Optim
 If you find our work useful in your research please consider citing our paper:
 
 > @article{abs-2004-14557, <br>
-  author    = {Risheng Liu and Zi Li and Xin Fan and Chenying Zhao and Hao Huang and Zhongxuan Luo}, <br>
+  author    = {Risheng Liu, Zi Li, Xin Fan, Chenying Zhao, Hao Huang and Zhongxuan Luo}, <br>
   title     = {Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond}, <br>
-  journal   = {CoRR}, <br>
-  volume    = {abs/2004.14557}, <br>
-  year      = {2020} <br>
+  journal   = {IEEE TPAMI}, <br>
+  year      = {2021} <br>
 }
