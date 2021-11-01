@@ -23,12 +23,12 @@ This is the official code for "Learning Deformable Image Registration from Optim
 # Reference
 If you find our work useful in your research please consider citing our paper:
 
-@ARTICLE{9551747,
-  author={Liu, Risheng and Li, Zi and Fan, Xin and Zhao, Chenying and Huang, Hao and Luo, Zhongxuan},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
-  title={Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TPAMI.2021.3115825}}
+@ARTICLE{9551747, <\br>
+  author={Liu, Risheng and Li, Zi and Fan, Xin and Zhao, Chenying and Huang, Hao and Luo, Zhongxuan},<\br>
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, <\br>
+  title={Learning Deformable Image Registration from Optimization: Perspective, Modules, Bilevel Training and Beyond}, <\br>
+  year={2021},<\br>
+  volume={},<\br>
+  number={},<\br>
+  pages={1-1},<\br>
+  doi={10.1109/TPAMI.2021.3115825}}<\br>
