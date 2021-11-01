@@ -44,7 +44,8 @@ class HyperOptimizer(object):
     unrolled_loss, ncc, grad = unrolled_model._loss(input_valid, target_valid)
 
     unrolled_loss.backward()
-    dalpha = [v.grad for v in unrolled_model.hyper_parameters()]
+#     dalpha = [v.grad for v in unrolled_model.hyper_parameters()]
+    dalpha = [torch.zeros_like(v) for v in unrolled_model.upper_parameters()]  # dalpha{L_val(w', alpha)}
     vector = [v.grad.data for v in unrolled_model.parameters()]
     implicit_grads = self._hessian_vector_product(vector, input_train, target_train)
 
