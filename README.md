@@ -37,4 +37,4 @@ R. Liu, [Z. Li](https://alison-brie.github.io/), X. Fan, C. Zhao, H. Huang and Z
 Some codes in this repository are modified from [VoxelMorph](https://github.com/voxelmorph/voxelmorph).
 
 ## Keywords
-Diffeomorphic Image Registration, hyperparameter learning, convolutional neural networks, alignment
+Diffeomorphic image registration, hyperparameter learning, iterative refinement for registration, convolutional neural networks, alignment
